@@ -5,8 +5,6 @@
         <ul>
             <li>🔭 I'm Yeffer Gomez</li>
         
-        </ul>
-    </h3>
 </header>
 <hr>
 <div align="center">
@@ -30,12 +28,8 @@
 <hr>
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=francojimenezcopati&include_all_commits=true&show_icons=true&theme=radical" height="250">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francojimenezcopati&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+        <img src="https://github-readme-stats.vercel.app/api?username=yeffer-gomez&include_all_commits=true&show_icons=true&theme=radical" height="250">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeffer-gomez&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
     </p>
 </footer>
 
-------
-
-Credit: [francojimenezcopati](https://github.com/francojimenezcopati)
-Last Edited on: 10/01/2024
